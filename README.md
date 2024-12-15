@@ -83,13 +83,13 @@ Here are some key visuals included in the dashboard:
    Files in Repository-
 - `Movies_Dashboard.pbix`: Power BI file containing the complete dashboard.
 - `README.md`: This file with project details.
-- `Data.csv` : The dataset used for analysis.
+- `MoviesData.csv` : The dataset used for analysis.
 
 
-Contact
+Contact:-
 If you have any questions or suggestions, feel free to reach out:
 
-Name: Your Name
+Name: Rajesh M
 Email: rajeshmusine@gmail.com
 LinkedIn:  [Rajesh M] www.linkedin.com/in/rajesh-m-92b182341 
 GitHub:  https://github.com/Rajesh-DataAnalyst/Rajesh.git
